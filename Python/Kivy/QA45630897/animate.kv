@@ -1,0 +1,28 @@
+#:kivy 1.10.0
+
+<AnimateRecord>:
+    # Describe the record's position and size here
+    size_hint: None, None
+    size: 200, 200
+    pos_hint: {'top': 0.7, 'right': 1.1}
+
+    canvas.before:
+        PushMatrix
+        Rotate:
+            angle: root.angle
+            axis: (0, 0, 1)
+            origin: root.center
+    canvas.after:
+        PopMatrix
+
+    Image:
+        source: '45rpm.png'
+        size_hint: None, None
+        size: self.parent.size  # So we don't have to change it every time, change the size above only
+        pos_hint: {'center_x': 0.5, 'center_y': 0.5}
+
+<AnimateButton>:
+    Button:
+        size_hint: (None, None)
+        text: 'plop'
+        on_press: root.animate_button(self)
