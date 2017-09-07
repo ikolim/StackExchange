@@ -7,4 +7,4 @@ https://stackoverflow.com/questions/46070745/attributeerror-mainscreen-object-ha
 
 ## Images
 ![App Startup](https://github.com/ikolim/StackExchange/blob/master/Python/Kivy/QA46070745/QA46070745-Img01-Startup.png "App Startup")
-![Kivy Garden Matplotlib](https://github.com/ikolim/StackExchange/blob/master/Python/Kivy/QA46070745/QA46070745-Img02-Output.png "Button2 Popup")
+![Kivy Garden Matplotlib](https://github.com/ikolim/StackExchange/blob/master/Python/Kivy/QA46070745/QA46070745-Img02-Output.png "Kivy Garden Matplotlib")
