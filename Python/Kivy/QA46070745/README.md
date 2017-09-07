@@ -1,6 +1,6 @@
 # Kivy Screen Manager
 
-This example illustrates how to access wdigets in another screen by using ObjectProerty to hook up child widgets.
+This example illustrates how to access wdigets in another screen by using ObjectProperty to hook up child widgets.
 
 ## Links
 https://stackoverflow.com/questions/46070745/attributeerror-mainscreen-object-has-no-attribute-ipthpidx/46098618#46098618
