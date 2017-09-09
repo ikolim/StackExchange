@@ -1,3 +1,3 @@
 # Images
 
-Images of Kivy applications.
+Images of applications.
