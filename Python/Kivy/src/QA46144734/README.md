@@ -1,8 +1,8 @@
 # Kivy Screen Manager and Clock Object
 
-This example illustrates how to use the Clock object to schedule function calls in the future at specified intervals to switch
-screens from first screen to fourth screen. After the first screen has being displayed, it will change the first screen's text
-from "Hi I'm the First Screen" to "Hi I'm the Fifth Screen".
+This example illustrates how to use the Kivy Screen Manager, and Clock object to schedule function calls in the future at 
+specified intervals to automatically switch screens from first screen to fourth screen. After the first screen has being
+displayed, it will change the first screen's text from "Hi I'm the First Screen" to "Hi I'm the Fifth Screen".
 
 ## Links
 https://stackoverflow.com/questions/46144734/a-complete-code-example-of-kivy-a-working-screen-manager-reference-written-in-kv
