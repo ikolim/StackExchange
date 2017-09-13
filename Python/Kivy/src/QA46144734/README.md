@@ -5,7 +5,7 @@ specified intervals to automatically switch screens from first screen to fourth 
 displayed, it will change the first screen's text from "Hi I'm the First Screen" to "Hi I'm the Fifth Screen".
 
 ## Links
-https://stackoverflow.com/questions/46144734/a-complete-code-example-of-kivy-a-working-screen-manager-reference-written-in-kv
+[A Complete Code Example Of Kivy A Working Screen Manager Reference Written In KV Language](https://stackoverflow.com/questions/46144734/a-complete-code-example-of-kivy-a-working-screen-manager-reference-written-in-kv)
 
 ## Images
 ![First Screen](https://github.com/ikolim/StackExchange/blob/master/Python/Kivy/images/QA46144734/Img01-Sceen1.png "App Startup")
