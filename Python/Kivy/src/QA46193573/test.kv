@@ -1,0 +1,22 @@
+#:kivy 1.10.0
+
+<SQLite3KivyDemo>:
+    canvas.before:
+        Color:
+            rgb: 1, 0.5, 0  # Orange
+            # rgb: 0, 0.5, 1  # Sky blue
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    orientation: "vertical"
+    BoxLayout:
+        size_hint_y: 0.1
+        Label:
+            text: "Enter Date of Birth"
+        TextInput:
+            id: sel_date
+            multiline: False
+            size_hint_x: 3
+        Button:
+            text: "Display Data"
+            on_release: root.db_query()
