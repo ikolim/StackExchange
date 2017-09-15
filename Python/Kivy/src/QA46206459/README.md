@@ -1,6 +1,6 @@
 # Kivy Screen Manager
 
-This example illustrates how to access wdigets in another screen by using ids.
+This example illustrates how to access widgets defined in another screen inside Kv language (kv file).
 
 ## Links
 [how to pass info from one widget to another in kv file](https://stackoverflow.com/questions/46206459/how-to-pass-info-from-one-widget-to-another-in-kv-kivy)
