@@ -1,6 +1,6 @@
 # Kivy self.ids method
 
-This example illustrates how to access wdigets defined inside Kv language in your Python code using self.ids method.
+This example illustrates how to access widgets defined inside Kv language in your Python code using self.ids method.
 
 ## Snippet
         self.ids[button_pressed].background_normal = kivy_logo
